@@ -29,4 +29,4 @@
   GitHub: https://github.com/hiteshchoudhary4554
 
 ## Output Screenshot
-  ![Project Screenshot](Cursor-UI-Clone_ Output Screenshot.png)
+  ![Project Screenshot](cursor-ui-clone-output-screenshot.png)
