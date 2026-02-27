@@ -1,5 +1,5 @@
 # Cursor-UI-Clone
-  A responsive **Cursor UI Clone** built using **HTML, CSS, and JavaScript**.  
+  A responsive **Cursor UI Clone** built using **HTML, CSS**.  
   This project is created for learning and practice purposes by cloning the UI design.
 
 ---
